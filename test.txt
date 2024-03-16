@@ -1,1 +1,3 @@
+
 some changes into text.txt
+defferent changes for on purposed conflict
