@@ -1,3 +1,4 @@
 some changes into text.txt
 different changes for on purposed conflict
 + new line
+++some new content
